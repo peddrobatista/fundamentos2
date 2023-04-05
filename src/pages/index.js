@@ -14,6 +14,8 @@ export default function Home() {
         <Navegador texto="exemplo" destino="/exemplo" cor="crimson"/>
         <Navegador texto="Navagação 01" destino="/navegacao" cor="#27ae60"/> 
         <Navegador texto="Navegação 02" destino="/cliente/123" cor="#8e44ad"/>
+        <Navegador texto="Componente com Estado" destino="/estado" cor="#f39c12"/>
+        <Navegador texto="Integração com API 01" destino="/integracao_1" cor="#2c3e50" />
       </div>
   )
 }
